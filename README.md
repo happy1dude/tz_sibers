@@ -1,5 +1,17 @@
 # Getting Started with Create React App
 
+## Приложение залил на github pages...
+
+Посмотреть можно [здесь](https://happy1dude.github.io/tz_sibers/). 
+Но не работает Ajax-запрос - выдаёт ошибку. Локально всё работает.
+
+## Запуск приложения локально
+
+Для запуска необходимо на локальной машине устаноить все зависимости.
+Для этого используем комманду: 
+
+### `npm install`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
