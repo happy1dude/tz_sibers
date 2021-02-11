@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tz_sibers/static/css/main.0e82b94e.chunk.css",
+    "main.js": "/tz_sibers/static/js/main.76f8f18a.chunk.js",
+    "main.js.map": "/tz_sibers/static/js/main.76f8f18a.chunk.js.map",
+    "runtime-main.js": "/tz_sibers/static/js/runtime-main.6b7a1c1d.js",
+    "runtime-main.js.map": "/tz_sibers/static/js/runtime-main.6b7a1c1d.js.map",
+    "static/js/2.042ea121.chunk.js": "/tz_sibers/static/js/2.042ea121.chunk.js",
+    "static/js/2.042ea121.chunk.js.map": "/tz_sibers/static/js/2.042ea121.chunk.js.map",
+    "index.html": "/tz_sibers/index.html",
+    "static/css/main.0e82b94e.chunk.css.map": "/tz_sibers/static/css/main.0e82b94e.chunk.css.map",
+    "static/js/2.042ea121.chunk.js.LICENSE.txt": "/tz_sibers/static/js/2.042ea121.chunk.js.LICENSE.txt",
+    "static/media/list.a862c15f.svg": "/tz_sibers/static/media/list.a862c15f.svg",
+    "static/media/pen.d48cb023.svg": "/tz_sibers/static/media/pen.d48cb023.svg",
+    "static/media/user.4443058e.svg": "/tz_sibers/static/media/user.4443058e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b7a1c1d.js",
+    "static/js/2.042ea121.chunk.js",
+    "static/css/main.0e82b94e.chunk.css",
+    "static/js/main.76f8f18a.chunk.js"
+  ]
+}
